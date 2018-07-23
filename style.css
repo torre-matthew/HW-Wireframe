@@ -12,7 +12,7 @@ body {
 
 .longbox {
 	text-align: center;
-	padding: 60px;
+	padding: 40px 60px 40px 60px;
 	background-color: #ebebeb;	
 
 }
@@ -28,23 +28,20 @@ nav {
 	text-align: center;
 	padding: 30px;
 	width: 50%;
-	margin: 10px;
+	margin-left: 0;
+	margin-bottom: 20px;
 	float: left;
 }
 
-.rightsec	{
+aside	{
 	text-align: center;
 	padding: 30px;
-	height: 180px;
+	height: 265px;
 	background-color: #ebebeb;
-	width: 40%;
-	margin: 10px;
+	width:35%;
+	margin-right: 0;
+	margin-bottom: 20px;
 	float: right;
-}
-
-.ib {
-
-	display: inline-block;
 }
 
 .art {
